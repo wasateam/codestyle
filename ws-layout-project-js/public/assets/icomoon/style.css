@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?sc6rd6');
+  src:  url('fonts/icomoon.eot?sc6rd6#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?sc6rd6') format('truetype'),
+    url('fonts/icomoon.woff?sc6rd6') format('woff'),
+    url('fonts/icomoon.svg?sc6rd6#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-email:before {
+  content: "\e91f";
+}
+.icon-avatar-r:before {
+  content: "\e920";
+}
+.icon-phone:before {
+  content: "\e921";
+}
+.icon-eyeopen:before {
+  content: "\e91c";
+}
+.icon-eyeclose:before {
+  content: "\e91d";
+}
+.icon-password:before {
+  content: "\e91e";
+}
+.icon-autorenew:before {
+  content: "\e91b";
+}
+.icon-welldone:before {
+  content: "\e91a";
+}
+.icon-edit:before {
+  content: "\e918";
+}
+.icon-dots:before {
+  content: "\e919";
+}
+.icon-remark:before {
+  content: "\e915";
+}
+.icon-suitcase:before {
+  content: "\e916";
+}
+.icon-clock:before {
+  content: "\e917";
+}
+.icon-close-round:before {
+  content: "\e914";
+}
+.icon-keyboard-hide:before {
+  content: "\e913";
+}
+.icon-close:before {
+  content: "\e900";
+}
+.icon-keyboard-show:before {
+  content: "\e901";
+}
+.icon-add:before {
+  content: "\e902";
+}
+.icon-arrow-back:before {
+  content: "\e903";
+}
+.icon-avatar:before {
+  content: "\e904";
+}
+.icon-cms:before {
+  content: "\e905";
+}
+.icon-comment:before {
+  content: "\e906";
+}
+.icon-location:before {
+  content: "\e907";
+}
+.icon-organization:before {
+  content: "\e908";
+}
+.icon-status:before {
+  content: "\e909";
+}
+.icon-menu:before {
+  content: "\e90a";
+}
+.icon-case:before {
+  content: "\e90b";
+}
+.icon-eventless:before {
+  content: "\e90c";
+}
+.icon-schedule:before {
+  content: "\e90d";
+}
+.icon-search:before {
+  content: "\e90e";
+}
+.icon-setting:before {
+  content: "\e90f";
+}
+.icon-arrow-down:before {
+  content: "\e910";
+}
+.icon-checkbox-on:before {
+  content: "\e911";
+}
+.icon-checkbox:before {
+  content: "\e912";
+}
